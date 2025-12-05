@@ -6,6 +6,9 @@
 </template>
 
 <script>
+
+import performanceData from '../data/performance_info.json';
+
 export default {
   name: "Performance",
 };
