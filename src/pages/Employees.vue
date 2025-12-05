@@ -13,7 +13,7 @@
       >
         <strong>{{ employee.name }}</strong><br>
         Position: {{ employee.position }}<br>
-        Department: {{ employee.department }}
+        Department: {{ employee.department }}<br>
       </li>
     </ul>
   </div>
