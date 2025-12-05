@@ -20,7 +20,7 @@
 
 <script>
 
-import employeeData from '../data/employee_info.json'
+import performanceData from '../data/performance_info.json';
 
 export default {
   name: "Performance",
